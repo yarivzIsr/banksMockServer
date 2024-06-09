@@ -1,8 +1,5 @@
 {
-  "count": 7,
-  "next": null,
-  "previous": null,
-  "results": [
+  "banks": [
     {
       "account_number": "14be9505e28dbbd872cc6038c990e93cf02066fa922bb08ba97974fa951e9e22",
       "ip_address": "54.193.31.159",
